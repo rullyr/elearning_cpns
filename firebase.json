@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "e-learning-cpns",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
